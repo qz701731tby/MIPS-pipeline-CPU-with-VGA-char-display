@@ -1,0 +1,1 @@
+This desgin of pipeline is classcial 5-level, including instruction fetch, decode, execute, memory access and write back regfile.
